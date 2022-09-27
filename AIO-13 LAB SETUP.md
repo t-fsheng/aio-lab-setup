@@ -109,8 +109,10 @@ The following steps are required in the deployment of AIO-13. The same steps on 
 > 
 > When you install [Unified Communications Managed API 4.0 Runtime](https://www.microsoft.com/en-us/download/details.aspx?id=34992) on AIO-13, you may meet the following problem.
 > 
-> > **Problem**: If you met the pop-up lick the below pic, you can follow the solution with this link: [Microsoft Communications Managed API 4.0 Install Error | PeteNetLive](https://www.petenetlive.com/KB/Article/0000746)
-> > ![aio13-if-3.1.png](https://s2.loli.net/2022/09/15/IBD9NZJuKvPHxse.png)
+> > **Problem**: If you met the pop-up lick the below pic, you can follow the solution with this link: 
+> > [Microsoft Communications Managed API 4.0 Install Error | PeteNetLive](https://www.petenetlive.com/KB/Article/0000746)
+> >
+> >  ![aio13-if-3.1.png](https://s2.loli.net/2022/09/15/IBD9NZJuKvPHxse.png)
 > > 
 > > **Solution**:
 > > Run the cmdlet and then restart the system: `Install-WindowsFeature Server-Media-Foundation`
