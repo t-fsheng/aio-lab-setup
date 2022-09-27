@@ -3,6 +3,7 @@
 ## Overview
 
 ========================
+
 **References:**
 
 - [Exchange 2013 prerequisites: Exchange 2013 Help | Microsoft Docs](https://docs.microsoft.com/en-us/exchange/exchange-2013-prerequisites-exchange-2013-help#windows-server-2012-r2-and-windows-server-2012-prerequisites)
@@ -43,7 +44,7 @@
 
 ========================
 
-The following steps are required in the deployment of AIO-13. The same steps on AIOs are not mentioned here, for more information about parent documentation, see [General Deployment of AIO Step by step](../Fangyuan%20@%20Microsoft/General%20Deployment%20of%20AIO%20Step%20by%20step.md).
+The following steps are required in the deployment of AIO-13. The same steps on AIOs are not mentioned here, for more information about parent documentation, see [General Deployment of AIO Step by step](:/51b1e43c67794eda9e42bc50a142dc8e).
 
 ### Step 1: configure the all-in-one virtual machine on VMAs.
 
@@ -59,7 +60,7 @@ The following steps are required in the deployment of AIO-13. The same steps on 
 
 ### Step 3: install the necessary applications.
 
-> There are other necessary applications should be installed on AIO-13 after the apps mentioned in **Step 3** of [General Deployment of AIO Step by step](../Fangyuan%20@%20Microsoft/General%20Deployment%20of%20AIO%20Step%20by%20step.md) have been installed.
+> There are other necessary applications should be installed on AIO-13 after the apps mentioned in **Step 3** of [General Deployment of AIO Step by step](:/51b1e43c67794eda9e42bc50a142dc8e) have been installed.
 > 
 > 3.1 Install [Windows Management Framework 5.1](https://www.microsoft.com/en-us/download/details.aspx?id=54616).
 > <img src="https://s2.loli.net/2022/09/15/eZjuBUIlxJGRF1m.png" alt="aio13-3.4.1.png" width="828" height="488" class="jop-noMdConv">
@@ -89,17 +90,21 @@ The following steps are required in the deployment of AIO-13. The same steps on 
 > > 
 > > 3.2.5 Click on **Ok**.
 > > ![aio13-3.6.5.png](https://s2.loli.net/2022/09/15/hOZF7RMDJPWHErm.png)
-> 
+> >
 > 3.3 Install [Cumulative Update 23 for Exchange Server 2013 (KB4489622)](https://www.microsoft.com/en-us/download/details.aspx?id=58392).
 > 
 > > 3.3.1 click on **Download** button.
+> > 
 > > <img src="https://s2.loli.net/2022/09/15/iBdsjTpolkyg21r.png" alt="aio13-3.7.1.png" width="896" height="529" class="jop-noMdConv">
 > > 
 > > 3.3.2 Double-click on the ISO and in the pop-up, click on **OK**. You can change the folder path of ISO later, for example, move them to the path "C:\\EX".
+> > 
 > > ![aio13-3.7.2.png](https://s2.loli.net/2022/09/15/JMVd5sL8gnFeabu.png)
 > > 
 > > 3.3.3 Wait for extracting.
+> > 
 > > ![aio13-3.7.3.png](https://s2.loli.net/2022/09/15/tmdbBzpYOjEfAu8.png)
+> > 
 > > The installation of necessary apps is complete.
 > 
 > When you install [Unified Communications Managed API 4.0 Runtime](https://www.microsoft.com/en-us/download/details.aspx?id=34992) on AIO-13, you may meet the following problem.
@@ -113,7 +118,7 @@ The following steps are required in the deployment of AIO-13. The same steps on 
 
 ### Step 4: pending the ISO.
 
-Same as **Step 4** in [General Deployment of AIO Step by step](../Fangyuan%20@%20Microsoft/General%20Deployment%20of%20AIO%20Step%20by%20step.md).
+Same as **Step 4** in [General Deployment of AIO Step by step](:/51b1e43c67794eda9e42bc50a142dc8e).
 
 ### Step 5: prepare Windows Features.
 
@@ -141,11 +146,12 @@ Same as **Step 4** in [General Deployment of AIO Step by step](../Fangyuan%20@%2
 > > <img src="https://s2.loli.net/2022/09/15/sdJDbeijW2nM1lx.png" alt="aio13-5.2.1.png" width="803" height="704" class="jop-noMdConv"> <img src="https://s2.loli.net/2022/09/15/yR7aIi18PdgwHez.png" alt="aio13-5.2.2.png" width="705" height="616" class="jop-noMdConv"><img src="https://s2.loli.net/2022/09/15/3X4CPOUeB1sd79b.png" alt="aio13-5.2.3.png" width="695" height="601" class="jop-noMdConv"><img src="https://s2.loli.net/2022/09/15/oUnmRlPseNdOtpA.png" alt="aio13-5.2.4.png" width="692" height="601" class="jop-noMdConv"><img src="https://s2.loli.net/2022/09/15/2yDbpeVYEvarxST.png" alt="aio13-5.2.5.png" width="694" height="615" class="jop-noMdConv"><img src="https://s2.loli.net/2022/09/15/mXdgRTKybCIM1VO.png" alt="aio13-5.2.6.png" width="693" height="606" class="jop-noMdConv"><img src="https://s2.loli.net/2022/09/15/lIWEv1rLSh84qGQ.png" alt="aio13-5.2.7.png" width="720" height="638" class="jop-noMdConv"><img src="https://s2.loli.net/2022/09/15/GVDRkjSI1gLqMHW.png" alt="aio13-5.2.8.png" width="719" height="631" class="jop-noMdConv"><img src="https://s2.loli.net/2022/09/15/aK7wFhld8X61PA3.png" alt="aio13-5.2.9.png" width="717" height="630" class="jop-noMdConv"><img src="https://s2.loli.net/2022/09/15/Ppt8nRS3smGW1jA.png" alt="aio13-5.2.10.png" width="689" height="600" class="jop-noMdConv">
 > 
 > 6.3. Then wait for the installation.
+> 
 > <img src="https://s2.loli.net/2022/09/15/9Yf3JSNrhDE7pls.png" alt="aio13-5.2.11.png" width="726" height="635" class="jop-noMdConv">
 
 ### Step 7: install o365.
-Same as **Step 8** in [General Deployment of AIO Step by step](../Fangyuan%20@%20Microsoft/General%20Deployment%20of%20AIO%20Step%20by%20step.md).
+Same as **Step 8** in [General Deployment of AIO Step by step](:/51b1e43c67794eda9e42bc50a142dc8e).
 
 
 ### Preparation mentioned in Overview.
-Same as **Preparation mentioned in Overview** in [General Deployment of AIO Step by step](../Fangyuan%20@%20Microsoft/General%20Deployment%20of%20AIO%20Step%20by%20step.md).
+Same as **Preparation mentioned in Overview** in [General Deployment of AIO Step by step](:/51b1e43c67794eda9e42bc50a142dc8e).
