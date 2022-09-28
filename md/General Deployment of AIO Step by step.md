@@ -249,4 +249,4 @@ Details are different due to different OS system on AIO. **This step is the same
 - Prepare backup for databases on AIO.
     \*\* See more details in [Prepare backup for databases](Prepare%20backup%20for%20databases.md)
 - Create snap shots for AIO.
-    \*\* See more details in [Create snap shots](Create%20snap%20shots.md)
+    \*\* See more details in [](Create%20snap%20shots.md)
