@@ -67,9 +67,9 @@ The following steps are required in the deployment of AIO-13. The same steps on 
 > > <img src="https://s2.loli.net/2022/09/15/eUxbYF2n4DO89dt.png" alt="aio13-3.4.2.png" width="806" height="457" class="jop-noMdConv">
 > > 
 > > 3.1.2 Click on "I Accept" button in the pop-up.
-> > <img src="https://s2.loli.net/2022/09/15/oZ2UDzpAVEN6yu3.png" alt="aio13-3.4.2.png" width="643" height="451" class="jop-noMdConv">
+> > <img src="https://s2.loli.net/2022/09/15/oZ2UDzpAVEN6yu3.png" alt="aio13-3.4.2.png" width="643" height="451" class="jop-noMdConv"> 
 > > <br>
-> > 3.1.3 Click on **Restart Now** button. 
+> > 3.1.3 Click on **Restart Now** button. <br>
 > > <img src="https://s2.loli.net/2022/09/15/O1uI2QoyPgW8FRN.png" alt="aio13-3.4.3.png" width="645" height="454" class="jop-noMdConv">
 > 
 > 3.2 Install [Microsoft Filter Pack 2.0](https://www.microsoft.com/en-us/download/details.aspx?id=17062).
@@ -84,26 +84,30 @@ The following steps are required in the deployment of AIO-13. The same steps on 
 > > <img src="https://s2.loli.net/2022/09/15/rHfiMOKhFgZUPv3.png" alt="aio13-3.6.3.png" width="622" height="506" class="jop-noMdConv">
 > > 
 > > 3.2.4 Click on **Next**. <br>
-> > <img src="https://s2.loli.net/2022/09/15/WSBkQXnhFKao2vT.png" alt="aio13-3.6.4.png" width="627" height="543" class="jop-noMdConv">
-> > 
+> > <img src="https://s2.loli.net/2022/09/15/WSBkQXnhFKao2vT.png" alt="aio13-3.6.4.png" width="627" height="543" class="jop-noMdConv"> <br>
 > > 3.2.5 Click on **Ok**. <br>
-> > ![aio13-3.6.5.png](https://s2.loli.net/2022/09/15/hOZF7RMDJPWHErm.png)
+> > ![aio13-3.6.5.png](https://s2.loli.net/2022/09/15/hOZF7RMDJPWHErm.png) <br>
 > 
 > 3.3 Install [Cumulative Update 23 for Exchange Server 2013 (KB4489622)](https://www.microsoft.com/en-us/download/details.aspx?id=58392).
 > 
 > > 3.3.1 click on **Download** button.
 > > <img src="https://s2.loli.net/2022/09/15/iBdsjTpolkyg21r.png" alt="aio13-3.7.1.png" width="896" height="529" class="jop-noMdConv">
 > > 
-> > 3.3.2 Double-click on the ISO and in the pop-up, click on **OK**. You can change the folder path of ISO later, for example, move them to the path "C:\\EX". <br>
-> > ![aio13-3.7.2.png](https://s2.loli.net/2022/09/15/JMVd5sL8gnFeabu.png)
-> > 
-> > 3.3.3 Wait for extracting. <br>
+> > 3.3.2 Double-click on the ISO and in the pop-up, click on **OK**. You can change the folder path of ISO later, for example, move them to the path "C:\\EX". 
+> > <br>
+> > ![aio13-3.7.2.png](https://s2.loli.net/2022/09/15/JMVd5sL8gnFeabu.png) 
+> > <br>
+> > 3.3.3 Wait for extracting. 
+> > <br>
 > > ![aio13-3.7.3.png](https://s2.loli.net/2022/09/15/tmdbBzpYOjEfAu8.png)
+> > <br>
 > > The installation of necessary apps is complete.
-> 
+> > <br>
 > When you install [Unified Communications Managed API 4.0 Runtime](https://www.microsoft.com/en-us/download/details.aspx?id=34992) on AIO-13, you may meet the following problem.
+> > <br>
 > 
-> > **Problem**: If you met the pop-up lick the below pic, you can follow the solution with this link: <br>[Microsoft Communications Managed API 4.0 Install Error | PeteNetLive](https://www.petenetlive.com/KB/Article/0000746) <br>
+> > **Problem**: If you met the pop-up lick the below pic, you can follow the solution with this link: <br>[Microsoft Communications Managed API 4.0 Install Error | PeteNetLive](https://www.petenetlive.com/KB/Article/0000746) 
+> > <br>
 > > ![aio13-if-3.1.png](https://s2.loli.net/2022/09/15/IBD9NZJuKvPHxse.png)
 > > 
 > > **Solution**: <br>
@@ -139,8 +143,10 @@ Same as **Step 4** in [General Deployment of AIO Step by step](General%20Deploym
 > 
 > > <img src="https://s2.loli.net/2022/09/15/sdJDbeijW2nM1lx.png" alt="aio13-5.2.1.png" width="803" height="704" class="jop-noMdConv"> <img src="https://s2.loli.net/2022/09/15/yR7aIi18PdgwHez.png" alt="aio13-5.2.2.png" width="705" height="616" class="jop-noMdConv"><img src="https://s2.loli.net/2022/09/15/3X4CPOUeB1sd79b.png" alt="aio13-5.2.3.png" width="695" height="601" class="jop-noMdConv"><img src="https://s2.loli.net/2022/09/15/oUnmRlPseNdOtpA.png" alt="aio13-5.2.4.png" width="692" height="601" class="jop-noMdConv"><img src="https://s2.loli.net/2022/09/15/2yDbpeVYEvarxST.png" alt="aio13-5.2.5.png" width="694" height="615" class="jop-noMdConv"><img src="https://s2.loli.net/2022/09/15/mXdgRTKybCIM1VO.png" alt="aio13-5.2.6.png" width="693" height="606" class="jop-noMdConv"><img src="https://s2.loli.net/2022/09/15/lIWEv1rLSh84qGQ.png" alt="aio13-5.2.7.png" width="720" height="638" class="jop-noMdConv"><img src="https://s2.loli.net/2022/09/15/GVDRkjSI1gLqMHW.png" alt="aio13-5.2.8.png" width="719" height="631" class="jop-noMdConv"><img src="https://s2.loli.net/2022/09/15/aK7wFhld8X61PA3.png" alt="aio13-5.2.9.png" width="717" height="630" class="jop-noMdConv"><img src="https://s2.loli.net/2022/09/15/Ppt8nRS3smGW1jA.png" alt="aio13-5.2.10.png" width="689" height="600" class="jop-noMdConv">
 > 
-> 6.3. Then wait for the installation. <br>
+> 6.3. Then wait for the installation. 
+> <br>
 > <img src="https://s2.loli.net/2022/09/15/9Yf3JSNrhDE7pls.png" alt="aio13-5.2.11.png" width="726" height="635" class="jop-noMdConv">
+> <br>
 
 ### Step 7: install o365.
 Same as **Step 8** in [General Deployment of AIO Step by step](General%20Deployment%20of%20AIO%20Step%20by%20step.md).

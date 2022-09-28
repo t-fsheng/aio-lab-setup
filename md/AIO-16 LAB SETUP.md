@@ -38,7 +38,7 @@
 ## Deployment Step by step
 ========================
 
-Here are the deferences of deployment between the AIO-16 and the general AIO. For more information about the general deployment of AIO, see [General Deployment of AIO Step by step](https://github.com/t-fsheng/aio-lab-setup/blob/main/General%20Deployment%20of%20AIO%20Step%20by%20step.md#deployment-step-by-step).
+Here are the deferences of deployment between the AIO-16 and the general AIO. For more information about the general deployment of AIO, see [General Deployment of AIO Step by step](General%20Deployment%20of%20AIO%20Step%20by%20step.md).
 
 ### Step 1: configure the all-in-one virtual machine on VMAs.
 >1.3. In the pop up **New Workspace**, type "2016" in the Filter Operating Systems, add one **Windows 2016 Datacenter (RTM)**, and click on 'Next' at the 'Step 1' tab.
@@ -58,11 +58,10 @@ You need to install apps below:
 5. IIS URL Rewrite 2.1
 6. ISO: Cumulative Update 23 for Exchange Server 2016
 
-The installation of 1~4 refer to 'Step 3' of [General Deployment of AIO Step by step](https://github.com/t-fsheng/aio-lab-setup/blob/main/General%20Deployment%20of%20AIO%20Step%20by%20step.md#step-3-install-necessary-applications);
-
-The installation of 5~6 refer to 'Step 3' of [AIO-16 LAB SETUP](https://github.com/t-fsheng/aio-lab-setup/blob/main/AIO-16%20LAB%20SETUP.md#step-3-install-necessary-applications-needed-for-aio-16);
-
-
+The installation of 1~4 refer to 'Step 3' of [General Deployment of AIO Step by step](General%20Deployment%20of%20AIO%20Step%20by%20step.md)；
+<br>
+The installation of 5~6 refer to 'Step 3' in this article;
+<br>
 >3.1 Install [IIS URL Rewrite 2.1](https://www.iis.net/downloads/microsoft/url-rewrite).
 >
 >>3.1.1 After entering the hyperlink above, click on **install this extension** button and download.
@@ -81,7 +80,7 @@ The installation of 5~6 refer to 'Step 3' of [AIO-16 LAB SETUP](https://github.c
 >![3.2.1.png](https://s2.loli.net/2022/09/16/BMVhfoKRFHNTm9D.png)
 
 ### Step 4: pending the ISO.
-Refer to 'Step 4' of [General Deployment of AIO Step by step](https://github.com/t-fsheng/aio-lab-setup/blob/main/General%20Deployment%20of%20AIO%20Step%20by%20step.md#step-4-pending-the-iso).
+Refer to 'Step 4' of [General Deployment of AIO Step by step](General%20Deployment%20of%20AIO%20Step%20by%20step.md).
 
 > Double-click on the **ExchangeServer2016-x64-CU23** and let the ISO stay pending.
 >![3.2.2.png](https://s2.loli.net/2022/09/16/eNnYBlU2a7xVvIq.png)
@@ -172,9 +171,9 @@ Refer to 'Step 4' of [General Deployment of AIO Step by step](https://github.com
 
 ### Step 8: install o365.
 
-Same as **Step 7** in [General Deployment of AIO Step by step](https://github.com/t-fsheng/aio-lab-setup/blob/main/General%20Deployment%20of%20AIO%20Step%20by%20step.md#step-7-install-o365).
+Same as **Step 7** in [General Deployment of AIO Step by step](General%20Deployment%20of%20AIO%20Step%20by%20step.md).
 
 ### Preparation mentioned in Overview.
-Same as **Preparation mentioned in Overview** in [General Deployment of AIO Step by step](https://github.com/t-fsheng/aio-lab-setup/blob/main/General%20Deployment%20of%20AIO%20Step%20by%20step.md#preparation-mentioned-in-overview).
+Same as **Preparation mentioned in Overview** in [General Deployment of AIO Step by step](General%20Deployment%20of%20AIO%20Step%20by%20step.md).
 
 
