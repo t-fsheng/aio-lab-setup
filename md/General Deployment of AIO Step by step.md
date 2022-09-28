@@ -49,7 +49,7 @@
 > 1.2. Click on **Workspaces** on the top toolbar and click on **New Custom Workspace.**
 > <img src="https://s2.loli.net/2022/09/16/5Xk9BdfoyaqV3Yh.png" alt="aio-1.2.png" width="854" height="233" class="jop-noMdConv">
 > 
-> 1.3. In the pop up **New Workspace**, type &lt;/version/&gt; in the **Filter Operating Systems**, select the OS system of AIO, and click Next at the **Step 1**.
+> 1.3. In the pop up **New Workspace**, type \<version\>; in the **Filter Operating Systems**, select the OS system of AIO, and click Next at the **Step 1**. <br>
 > <img src="https://s2.loli.net/2022/09/16/3Mq1nr8PNEh7j4R.png" alt="aio-1.3.png" width="754" height="555" class="jop-noMdConv">
 > 
 > 1.4. Click on **Private Network - Routable** and click on Next at the **Step 2**.
