@@ -58,7 +58,7 @@ The following steps are required in the deployment of AIO-13. The same steps on 
 
 ### Step 3: install the necessary applications.
 
-> There are other necessary applications should be installed on AIO-13 after the apps mentioned in **Step 3** of neral%20Deployment%20of%20AIO%20Step%20by%20step.md#step-3-install-necessary-applications) have been installed.
+> There are other necessary applications should be installed on AIO-13 after the apps mentioned in **Step 3** of [General Deployment of AIO Step by step](General%20Deployment%20of%20AIO%20Step%20by%20step.md).
 > 
 > 3.1 Install [Windows Management Framework 5.1](https://www.microsoft.com/en-us/download/details.aspx?id=54616).
 > <img src="https://s2.loli.net/2022/09/15/eZjuBUIlxJGRF1m.png" alt="aio13-3.4.1.png" width="828" height="488" class="jop-noMdConv">
@@ -102,16 +102,20 @@ The following steps are required in the deployment of AIO-13. The same steps on 
 > > ![aio13-3.7.3.png](https://s2.loli.net/2022/09/15/tmdbBzpYOjEfAu8.png)
 > > <br>
 > > The installation of necessary apps is complete.
+> > 
 > > <br>
-> When you install [Unified Communications Managed API 4.0 Runtime](https://www.microsoft.com/en-us/download/details.aspx?id=34992) on AIO-13, you may meet the following problem.
+> > When you install [Unified Communications Managed API 4.0 Runtime](https://www.microsoft.com/en-us/download/details.aspx?id=34992) on AIO-13, you may meet the following problem.
 > > <br>
-> 
+> >
 > > **Problem**: If you met the pop-up lick the below pic, you can follow the solution with this link: <br>[Microsoft Communications Managed API 4.0 Install Error | PeteNetLive](https://www.petenetlive.com/KB/Article/0000746) 
 > > <br>
 > > ![aio13-if-3.1.png](https://s2.loli.net/2022/09/15/IBD9NZJuKvPHxse.png)
 > > 
 > > **Solution**: <br>
-> > Run the cmdlet and then restart the system: `Install-WindowsFeature Server-Media-Foundation`
+> > Run the cmdlet and then restart the system: 
+> > ```
+> > Install-WindowsFeature Server-Media-Foundation
+> > ```
 > > <img src="https://s2.loli.net/2022/09/15/Mojrt8VxZn6FDQC.png" alt="aio13-if-3.2.png" width="876" height="641" class="jop-noMdConv">
 
 ### Step 4: pending the ISO.
