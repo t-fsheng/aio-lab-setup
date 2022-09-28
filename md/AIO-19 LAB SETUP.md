@@ -46,7 +46,7 @@
 ## Deployment Step by step
 
 
-Here are the deferences of deployment between the AIO-19 and the general AIO. For more information about the general deployment of AIO, see [General Deployment of AIO Step by step](https://github.com/t-fsheng/aio-lab-setup/blob/main/General%20Deployment%20of%20AIO%20Step%20by%20step.md#deployment-step-by-step).
+Here are the deferences of deployment between the AIO-19 and the general AIO. For more information about the general deployment of AIO, see [General Deployment of AIO Step by step](General%20Deployment%20of%20AIO%20Step%20by%20step.md).
 
 ### Step 1: configure the all-in-one virtual machine on VMAs.
 
@@ -56,7 +56,7 @@ Here are the deferences of deployment between the AIO-19 and the general AIO. Fo
 
 ### Step 2: login the AIO with RDCMan.exe.
 
-Refer to the 'Step 2' in [General Deployment of AIO Step by step](https://github.com/t-fsheng/aio-lab-setup/blob/main/General%20Deployment%20of%20AIO%20Step%20by%20step.md#step-2-login-the-aio).
+Refer to the 'Step 2' in [General Deployment of AIO Step by step](General%20Deployment%20of%20AIO%20Step%20by%20step.md).
 
 
 ### Step 3: install necessary applications.
@@ -69,9 +69,9 @@ You need to install apps below:
 5. IIS URL Rewrite 2.1
 6. Cumulative Update 12 for Exchange Server 2019
 
-The installation of 1~4 refer to 'Step 3' of [General Deployment of AIO Step by step](https://github.com/t-fsheng/aio-lab-setup/blob/main/General%20Deployment%20of%20AIO%20Step%20by%20step.md#step-3-install-necessary-applications);
+The installation of 1~4 refer to 'Step 3' of [General Deployment of AIO Step by step](General%20Deployment%20of%20AIO%20Step%20by%20step.md);
 
-The installation of 5 refer to 'Step 3' of [AIO-16 LAB SETUP](https://github.com/t-fsheng/aio-lab-setup/blob/main/AIO-16%20LAB%20SETUP.md#step-3-install-necessary-applications-needed-for-aio-16);
+The installation of 5 refer to 'Step 3' of [AIO-16 LAB SETUP](AIO-16%20LAB%20SETUP.md);
 
 The installlation of 6 refer to the below: 
 Please download [Cumulative Update 12 for Exchange Server 2019 (KB5011156)](https://www.microsoft.com/en-us/download/details.aspx?id=104131).
@@ -79,19 +79,19 @@ Please download [Cumulative Update 12 for Exchange Server 2019 (KB5011156)](http
 
 
 ### Step 4: pending the ISO.
-Refer to 'Step 4' of [General Deployment of AIO Step by step](https://github.com/t-fsheng/aio-lab-setup/blob/main/General%20Deployment%20of%20AIO%20Step%20by%20step.md#step-4-pending-the-iso).
+Refer to 'Step 4' of [General Deployment of AIO Step by step](General%20Deployment%20of%20AIO%20Step%20by%20step.md).
 
 ### Step 5: install Windows Features.
-Refer to 'Step 5' of [AIO-16 LAB SETUP](https://github.com/t-fsheng/aio-lab-setup/blob/main/AIO-16%20LAB%20SETUP.md#step-5-install-windows-features).
+Refer to 'Step 5' of [AIO-16 LAB SETUP](AIO-16%20LAB%20SETUP.md).
 
 ### Step 6: prepare AD schema, AD, and domain.
-Refer to 'Step 6' of [AIO-16 LAB SETUP](https://github.com/t-fsheng/aio-lab-setup/blob/main/AIO-16%20LAB%20SETUP.md#step-6-use-cmdlet-to-prepare-ad-schema-ad-and-ad-domain).
+Refer to 'Step 6' of [AIO-16 LAB SETUP](AIO-16%20LAB%20SETUP.md).
 
 ### Step 7: install exchange mailbox role
-Refer to 'Step 7' of [AIO-16 LAB SETUP](https://github.com/t-fsheng/aio-lab-setup/blob/main/AIO-16%20LAB%20SETUP.md#step-7-install-exchange-mailbox-role).
+Refer to 'Step 7' of [AIO-16 LAB SETUP](AIO-16%20LAB%20SETUP.md).
 
 ### Step 8: install o365.
-Same as **Step 7** in [General Deployment of AIO Step by step](https://github.com/t-fsheng/aio-lab-setup/blob/main/General%20Deployment%20of%20AIO%20Step%20by%20step.md#step-7-install-o365).
+Same as **Step 7** in [General Deployment of AIO Step by step](General%20Deployment%20of%20AIO%20Step%20by%20step.md).
 
 ### Preparation mentioned in Overview.
-Same as **Preparation mentioned in Overview** in [General Deployment of AIO Step by step](https://github.com/t-fsheng/aio-lab-setup/blob/main/General%20Deployment%20of%20AIO%20Step%20by%20step.md#preparation-mentioned-in-overview).
+Same as **Preparation mentioned in Overview** in [General Deployment of AIO Step by step](General%20Deployment%20of%20AIO%20Step%20by%20step.md).
