@@ -35,7 +35,7 @@
 * * *
 
 ## Deployment Step by step
-
+<br>
 (take the deployment of AIO-16 as example)
 
 **References:**
@@ -170,11 +170,12 @@ Apps need to be installed in all OS versions of AIOs are mentioned in this part:
 
 After the above apps installed, there are other necessary apps should be installed on AIOs with different OS system.
 
-- For more information of **AIO-13**'s necessary apps in the deployment, go to [AIO-13 LAB SETUP](https://github.com/t-fsheng/aio-lab-setup/blob/main/AIO-13%20LAB%20SETUP.md#step-3-install-the-necessary-applications).
+- For more information of **AIO-13**'s necessary apps in the deployment, go to [AIO-13 LAB SETUP](AIO-13%20LAB%20SETUP.md).
     
-- For more information of **AIO-16**'s necessary apps in the deployment, go to [AIO-16 LAB SETUP](https://github.com/t-fsheng/aio-lab-setup/blob/main/AIO-16%20LAB%20SETUP.md#step-3-install-necessary-applications-needed-for-aio-16).
+- For more information of **AIO-16**'s necessary apps in the deployment, go to [AIO-16 LAB SETUP](AIO-16%20LAB%20SETUP.md).
     
-- For more information of **AIO-19**'s necessary apps in the deployment, go to [AIO-19 LAB SETUP](https://github.com/t-fsheng/aio-lab-setup/blob/main/AIO-19%20LAB%20SETUP.md#step-3-install-necessary-applications).
+- For more information of **AIO-19**'s necessary apps in the deployment, go to [AIO-19 LAB SETUP](AIO-19%20LAB%20SETUP.md).
+
     
 
 ### Step 4: pending the ISO.
@@ -194,27 +195,27 @@ After the above apps installed, there are other necessary apps should be install
 
 Details are different due to different OS system on AIO.
 
-> For more information of **AIO-13**'s preparation, see **Step 5** in [AIO-13 LAB SETUP](https://github.com/t-fsheng/aio-lab-setup/blob/main/AIO-13%20LAB%20SETUP.md#step-5-prepare-windows-features).
+> For more information of **AIO-13**'s preparation, see **Step 5** in [AIO-13 LAB SETUP](AIO-13%20LAB%20SETUP.md).
 > 
-> For more information of **AIO-16**'s preparation, see **Step 5** in [AIO-16 LAB SETUP](https://github.com/t-fsheng/aio-lab-setup/blob/main/AIO-16%20LAB%20SETUP.md#step-5-install-windows-features).
+> For more information of **AIO-16**'s preparation, see **Step 5** in [AIO-16 LAB SETUP](AIO-16%20LAB%20SETUP.md).
 > 
-> For more information of **AIO-19**'s preparation, see **Step 5** in [AIO-19 LAB SETUP](https://github.com/t-fsheng/aio-lab-setup/blob/main/AIO-19%20LAB%20SETUP.md#step-5-install-windows-features).
+> For more information of **AIO-19**'s preparation, see **Step 5** in [AIO-19 LAB SETUP](AIO-19%20LAB%20SETUP.md).
 
 ### Step 6: install exchange server.
 
 Details are different due to different OS system on AIO. **This step is the same on AIO-13 and AIO-16**.
 
-> For more information of **AIO-13**'s preparation, see **Step 6** in [AIO-13 LAB SETUP](https://github.com/t-fsheng/aio-lab-setup/blob/main/AIO-13%20LAB%20SETUP.md#step-6-use-wizard-to-install-exchange-server-2013).
+> For more information of **AIO-13**'s preparation, see **Step 6** in [AIO-13 LAB SETUP](AIO-13%20LAB%20SETUP.md).
 > 
-> For more information of **AIO-16**'s preparation, see **Step 6** & **Step 7** in [AIO-16 LAB SETUP](https://github.com/t-fsheng/aio-lab-setup/blob/main/AIO-16%20LAB%20SETUP.md#step-6-use-cmdlet-to-prepare-ad-schema-ad-and-ad-domain).
+> For more information of **AIO-16**'s preparation, see **Step 6** & **Step 7** in [AIO-16 LAB SETUP](AIO-16%20LAB%20SETUP.md).
 > 
-> For more information of **AIO-19**'s preparation, see **Step 6** & **Step 7** in [AIO-19 LAB SETUP](https://github.com/t-fsheng/aio-lab-setup/blob/main/AIO-19%20LAB%20SETUP.md#step-7-install-exchange-mailbox-role).
+> For more information of **AIO-19**'s preparation, see **Step 6** & **Step 7** in [AIO-19 LAB SETUP](AIO-19%20LAB%20SETUP.md).
 
 ### Step 7: install o365.
 
 > 7.1. Open [Office 365 Login | Microsoft Office](https://www.office.com/) with Edge and sign in as **&lt;alias&gt;@xxx.onmicrosoft.com**.
-> 
-> 7.2. Download o365 apps.
+> <br>
+> 7.2. Download o365 apps.<br>
 > <img src="https://s2.loli.net/2022/09/16/rkV57n8Rbxeja29.png" alt="aio-7.2.png" width="723" height="806" class="jop-noMdConv">
 > 
 > 7.3. Install.
@@ -226,26 +227,26 @@ Details are different due to different OS system on AIO. **This step is the same
 ### Preparation mentioned in Overview.
 
 - Configure Language packs.
-    \*\* See more details in [Configure Language packs](https://github.com/t-fsheng/aio-lab-setup/blob/main/Configure%20Language%20packs.md)
+    \*\* See more details in [Configure Language packs](Configure%20Language%20packs.md)
 - Make sure Outlook Anywhere enabled.
-    \*\* See more details in [Make sure Outlook Anywhere enabled](https://github.com/t-fsheng/aio-lab-setup/blob/main/Make%20sure%20Outlook%20Anywhere%20enabled.md)
+    \*\* See more details in [Make sure Outlook Anywhere enabled](Make%20sure%20Outlook%20Anywhere%20enabled.md)
 - Make sure OAB and EWS enabled.
-    \*\* See more details in [Make sure OAB and EWS enabled](https://github.com/t-fsheng/aio-lab-setup/blob/main/Make%20sure%20OAB%20and%20EWS%20enabled.md)
+    \*\* See more details in [Make sure OAB and EWS enabled](Make%20sure%20OAB%20and%20EWS%20enabled.md)
 - Install Network Monitor.
-    \*\* See more details in [Install Network Monitor 3.4](https://github.com/t-fsheng/aio-lab-setup/blob/main/Install%20Network%20Monitor%203.4.md)
+    \*\* See more details in [Install Network Monitor 3.4](Install%20Network%20Monitor%203.4.md)
 - Install Fiddler.
-    \*\* See more details in [Use Fiddler](https://github.com/t-fsheng/aio-lab-setup/blob/main/Use%20Fiddler.md)
+    \*\* See more details in [Use Fiddler](Use%20Fiddler.md)
 - Install Telnet25.
-    \*\* See more details in [Install Telnet25](https://github.com/t-fsheng/aio-lab-setup/blob/main/Install%20Telnet25.md)
+    \*\* See more details in [Install Telnet25](Install%20Telnet25.md)
 - Install ExTRA.
-    \*\* See more details in [Install ExTRA](https://github.com/t-fsheng/aio-lab-setup/blob/main/Install%20ExTRA.md)
+    \*\* See more details in [Install ExTRA](Install%20ExTRA.md)
 - Disable CRL check.
-    \*\* See more details in [Disable CRL check](https://github.com/t-fsheng/aio-lab-setup/blob/main/Disable%20CRL%20check.md)
+    \*\* See more details in [Disable CRL check](Disable%20CRL%20check.md)
 - Make sure ActiveSync device connectivity enabled.
-    \*\* See more details in [Enable ActiveSync device connectivity](https://github.com/t-fsheng/aio-lab-setup/blob/main/Enable%20ActiveSync%20device%20connectivity.md)
+    \*\* See more details in [Enable ActiveSync device connectivity](Enable%20ActiveSync%20device%20connectivity.md)
 - Prepare additional disk for Backup issue.
-    \*\* See more details in [Prepare additional disk for Backup issue.](https://github.com/t-fsheng/aio-lab-setup/blob/main/Prepare%20additional%20disk%20for%20Backup%20issue.md)
+    \*\* See more details in [Prepare additional disk for Backup issue.](Prepare%20additional%20disk%20for%20Backup%20issue.md)
 - Prepare backup for databases on AIO.
-    \*\* See more details in [Prepare backup for databases](https://github.com/t-fsheng/aio-lab-setup/blob/main/Prepare%20backup%20for%20databases.md)
+    \*\* See more details in [Prepare backup for databases](Prepare%20backup%20for%20databases.md)
 - Create snap shots for AIO.
-    \*\* See more details in [Create snap shots](https://github.com/t-fsheng/aio-lab-setup/blob/main/Create%20snap%20shots.md)
+    \*\* See more details in [Create snap shots](Create%20snap%20shots.md)
