@@ -143,8 +143,7 @@ Same as **Step 4** in [General Deployment of AIO Step by step](General%20Deploym
 > 6.1. Click on "setup" in the path of CU.
 > <img src="https://s2.loli.net/2022/09/15/PvL3ED2G5xQd1ne.png" alt="aio13-5.1.png" width="850" height="482" class="jop-noMdConv">
 > 
-> 6.2. Click on "Don’t check for updates right now" and click on next. Then take the following steps as the pics display.
-> 
+> 6.2. Click on "Don’t check for updates right now" and click on next. Then take the following steps as the pics display. <br>
 > > <img src="https://s2.loli.net/2022/09/15/sdJDbeijW2nM1lx.png" alt="aio13-5.2.1.png" width="803" height="704" class="jop-noMdConv"> <img src="https://s2.loli.net/2022/09/15/yR7aIi18PdgwHez.png" alt="aio13-5.2.2.png" width="705" height="616" class="jop-noMdConv"><img src="https://s2.loli.net/2022/09/15/3X4CPOUeB1sd79b.png" alt="aio13-5.2.3.png" width="695" height="601" class="jop-noMdConv"><img src="https://s2.loli.net/2022/09/15/oUnmRlPseNdOtpA.png" alt="aio13-5.2.4.png" width="692" height="601" class="jop-noMdConv"><img src="https://s2.loli.net/2022/09/15/2yDbpeVYEvarxST.png" alt="aio13-5.2.5.png" width="694" height="615" class="jop-noMdConv"><img src="https://s2.loli.net/2022/09/15/mXdgRTKybCIM1VO.png" alt="aio13-5.2.6.png" width="693" height="606" class="jop-noMdConv"><img src="https://s2.loli.net/2022/09/15/lIWEv1rLSh84qGQ.png" alt="aio13-5.2.7.png" width="720" height="638" class="jop-noMdConv"><img src="https://s2.loli.net/2022/09/15/GVDRkjSI1gLqMHW.png" alt="aio13-5.2.8.png" width="719" height="631" class="jop-noMdConv"><img src="https://s2.loli.net/2022/09/15/aK7wFhld8X61PA3.png" alt="aio13-5.2.9.png" width="717" height="630" class="jop-noMdConv"><img src="https://s2.loli.net/2022/09/15/Ppt8nRS3smGW1jA.png" alt="aio13-5.2.10.png" width="689" height="600" class="jop-noMdConv">
 > 
 > 6.3. Then wait for the installation. 
